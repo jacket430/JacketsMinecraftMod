@@ -33,7 +33,7 @@ public class ItemDokuIronArmor extends ElementsAvesModMod.ModElement {
 
 	@Override
 	public void initElements() {
-		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("DOKU_IRON_ARMOR", "aves_mod:iron_", 1, new int[]{1, 1, 1, 1}, 1,
+		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("DOKU_IRON_ARMOR", "aves_mod:doku_iron", 1, new int[]{1, 1, 1, 1}, 1,
 				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("item.armor.equip_iron")), 0f);
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.HEAD).setUnlocalizedName("doku_iron_armorhelmet")
 				.setRegistryName("doku_iron_armorhelmet").setCreativeTab(CreativeTabs.COMBAT));

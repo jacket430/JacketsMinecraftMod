@@ -30,6 +30,21 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "FalloutCombatArmorCostume",
+      "type": "armor",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fallout_combat_armor_costume",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     }
   ],
   "variable_elements": [],
@@ -37,12 +52,16 @@
   "language_map": {
     "en_us": {
       "item.city_suitboots.name": "Black Dress Shoes Costume",
-      "item.doku_iron_armorboots.name": "Doku Iron Boots Costume",
+      "item.fallout_combat_armor_costumelegs.name": "Fallout Combat Armor Costume Leggings",
       "item.doku_iron_armorhelmet.name": "Doku Iron Helmet Costume",
       "item.city_suithelmet.name": "Black City Slicker Shades Costume",
       "item.doku_iron_armorlegs.name": "Doku Iron Leggings Costume",
-      "item.city_suitlegs.name": "Black Suit Pants Costume",
       "item.city_suitbody.name": "Black Blazer and Tie Costume",
+      "item.fallout_combat_armor_costumehelmet.name": "Fallout Combat Armor Costume Helmet",
+      "item.doku_iron_armorboots.name": "Doku Iron Boots Costume",
+      "item.fallout_combat_armor_costumebody.name": "Fallout Combat Armor Costume Body",
+      "item.fallout_combat_armor_costumeboots.name": "Fallout Combat Armor Costume Boots",
+      "item.city_suitlegs.name": "Black Suit Pants Costume",
       "item.doku_iron_armorbody.name": "Doku Iron Body Costume"
     }
   },

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "aves_mod:items/fo_iron_leggings"
+  }
+}
