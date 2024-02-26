@@ -1,0 +1,52 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CityShades",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "city_suit",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.city_suitboots.name": "Dress Shoes",
+      "item.city_suithelmet.name": "City Slicker Shades",
+      "item.city_suitlegs.name": "Suit Pants",
+      "item.city_suitbody.name": "Blazer and Tie"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "aves_mod",
+    "modName": "Ave\u0027s Mod",
+    "version": "1.0.0",
+    "author": "avemi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "ave.mod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
