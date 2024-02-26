@@ -21,10 +21,10 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.city_suitboots.name": "Dress Shoes",
-      "item.city_suithelmet.name": "City Slicker Shades",
-      "item.city_suitlegs.name": "Suit Pants",
-      "item.city_suitbody.name": "Blazer and Tie"
+      "item.city_suitboots.name": "Black Dress Shoes",
+      "item.city_suithelmet.name": "Black City Slicker Shades",
+      "item.city_suitlegs.name": "Black Suit Pants",
+      "item.city_suitbody.name": "Black Blazer and Tie"
     }
   },
   "foldersRoot": {
