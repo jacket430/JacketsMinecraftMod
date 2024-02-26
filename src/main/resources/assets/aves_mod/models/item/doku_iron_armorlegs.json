@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "aves_mod:items/iron_leggings"
+    "layer0": "aves_mod:items/doku_iron_legs"
   }
 }

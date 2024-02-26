@@ -3,13 +3,13 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "iron_helmet",
+    "textureHelmet": "doku_iron_helmet",
     "enableBody": true,
-    "textureBody": "iron_chestplate",
+    "textureBody": "doku_iron_chest",
     "enableLeggings": true,
-    "textureLeggings": "iron_leggings",
+    "textureLeggings": "doku_iron_legs",
     "enableBoots": true,
-    "textureBoots": "iron_boots",
+    "textureBoots": "doku_iron_boots",
     "creativeTab": {
       "value": "COMBAT"
     },
