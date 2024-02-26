@@ -3,21 +3,21 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "city_shades_fix",
+    "textureHelmet": "iron_helmet",
     "enableBody": true,
-    "textureBody": "black_blazer_tie",
+    "textureBody": "iron_chestplate",
     "enableLeggings": true,
-    "textureLeggings": "black_suit_pants",
+    "textureLeggings": "iron_leggings",
     "enableBoots": true,
-    "textureBoots": "black_dress_shoes",
+    "textureBoots": "iron_boots",
     "creativeTab": {
       "value": "COMBAT"
     },
-    "armorTextureFile": "suit_",
-    "helmetName": "Black City Slicker Shades Costume",
-    "bodyName": "Black Blazer and Tie Costume",
-    "leggingsName": "Black Suit Pants Costume",
-    "bootsName": "Black Dress Shoes Costume",
+    "armorTextureFile": "iron_",
+    "helmetName": "Doku Iron Helmet Costume",
+    "bodyName": "Doku Iron Body Costume",
+    "leggingsName": "Doku Iron Leggings Costume",
+    "bootsName": "Doku Iron Boots Costume",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -42,12 +42,12 @@
     "damageValueHelmet": 1,
     "damageValueBody": 1,
     "damageValueLeggings": 1,
-    "damageValueBoots": 2,
-    "enchantability": 9,
+    "damageValueBoots": 1,
+    "enchantability": 1,
     "toughness": 0.0,
     "knockbackResistance": 0.0,
     "equipSound": {
-      "value": "item.armor.equip_leather"
+      "value": "item.armor.equip_iron"
     },
     "repairItems": []
   }
